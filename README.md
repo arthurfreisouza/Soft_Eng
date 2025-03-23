@@ -15,9 +15,6 @@ The **histories** of the project will be assigned to each group member. The init
 
 ![Storie Points to days](https://github.com/arthurfreisouza/Soft_Eng/blob/main/SP_days.png)
 
-
-
-
 **Arthur history : Understand genAI and document extractors, and implement the backend part of this solution.**
 
 
@@ -26,9 +23,11 @@ The **histories** of the project will be assigned to each group member. The init
 **Task 2 :** Understand some simple LLM metrics such as BLEU and ROUGE, and create a brief summary to use in the final report. The **acceptance criteria** here is to have a good description about those metrics. **Storie Points => 6SP.**
 
 **Task 3 :** Create an open-source  genAI solution that will extract information from pdfs and some simple documents and develop some tests of the response. The **acceptance criteria** here is to assert that my document extractor passes in all the tests. **Storie Points => 12SP.**
+
 ---
 
 **Guilherme history :** ==> discuss about the frontend, how the integrations is going to work ....
+
 ---
 
 **Luis history : Understand genAI and image generators, and implement the backend part of this solution**
@@ -39,6 +38,7 @@ The **histories** of the project will be assigned to each group member. The init
 **Task 2 :** Understand some problems regarded to this image generator (generate harm or violent images). The **acceptance criteria** here is to have a good description about those problems. **Storie Points => 6SP.**
 
 **Task 3 :** Create an open-source  genAI solution that will generate image from prompts and develop some tests, testing the images of the generator. The **acceptance criteria** here is to assert that my image generator passes in all the tests. **Storie Points => 20SP.**
+
 ---
 
 **Pedro history : Understand genAI and image descriptors, and implement the backend part of this solution**
@@ -49,8 +49,7 @@ The **histories** of the project will be assigned to each group member. The init
 **Task 2 :** Create an open-source genAI solution that will generate description from pictures or some simple documents and develop some tests of the response. The **acceptance criteria** here is to assert that my image descriptor passes in all the tests. **Storie Points => 20SP.**
 
 [Download the Excel file](https://github.com/arthurfreisouza/Soft_Eng/blob/main/Soft_Eng_project.xlsx)
-
-
+---
 If you enjoyed the project and would like to learn more about the team members, you can follow their LinkedIn profiles linked below:
 
 ### 🔗 Connect with Arthur : 
@@ -58,22 +57,21 @@ If you enjoyed the project and would like to learn more about the team members, 
 <a href="https://www.linkedin.com/in/arthur-reis-0b64b8241/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
-
 ---
+
 ### 🔗 Connect with Guilherme Pontelo :
 
 <a href="https://www.linkedin.com/in/guilhermepontelos/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
-
-
+---
 
 ### 🔗 Connect with Pedro Mapa :
 
 <a href="https://www.linkedin.com/in/pedro-henrique-gomes-mapa-da-silva-b4b234243/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
-
+---
 
 ### 🔗 Connect with Luis Fernando : 
 
