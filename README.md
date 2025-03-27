@@ -18,7 +18,7 @@ Nosso objetivo é **aumentar a transparência** e ajudar alunos a tomarem **deci
 | Nome | Matrícula | Papel |
 |------|-----------|--------|
 | Arthur Felipe Reis Souza | 2021013884 | Fullstack |
-| Guilherme | 2017076508 | Fullstack |
+| Guilherme Pontelo Santos | 2017076508 | Fullstack |
 | Luís Fernando Garcia Raposo | 2022055190 | Fullstack |
 | Pedro Henrique Gomes Mapa da Silva | 2019027962 | Fullstack |
 
@@ -53,24 +53,24 @@ Nosso objetivo é **aumentar a transparência** e ajudar alunos a tomarem **deci
 
 ## 📆 Backlog da Sprint
 
-### História 1: Cadastro na Plataforma
+### História 1: Como usuário, eu gostaria de me cadastrar na plataforma.
 - Instalar frameworks e criar estrutura da aplicação. – **[Todos]**
 - Instalar e configurar banco de dados. – **[Todos]**
 - Implementar interface de login no frontend. – **[Guilherme]**
 - Implementar rota e autenticação de login/logout. – **[Guilherme]**
 
-### História 2: Administração de Entidades
+### História 2: Como administrador, eu gostaria de adicionar e ou remover universidades, cursos, disciplinas e ou professores na plataforma.
 - Criar usuários administradores. – **[Todos]**
 - Criar o modelo Entidade-Relacionamento do Banco de Dados. – **[Pedro]**
 - Criar tabelas e relacionamentos. – **[Pedro]**
 
-### História 3: Visualização e Busca de Avaliações
+### História 3: Como usuário, eu gostaria de buscar, filtrar e ver as avaliações de uma disciplina associada a um professor.
 - Criar interface para exibição de universidades, cursos, disciplinas e professores. – **[Guilherme]**
 - Implementar interface de visualização de avaliações no frontend. – **[Pedro]**
 - Implementar interface de busca no frontend. – **[Arthur]**
 - Implementar lógica de busca no backend. – **[Arthur]**
 
-### História 4: Avaliação de Disciplinas
+### História 4: Como usuário, eu gostaria de avaliar uma disciplina associada a um professor.
 - Implementar interface de avaliação. – **[Luis]**
 - Implementar lógica de avaliação no backend. – **[Luis]**
 
